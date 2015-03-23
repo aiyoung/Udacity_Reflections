@@ -9,3 +9,11 @@ by using staging area's, one can group project that contains many files and whos
 I think that the benifit of a stanging area is that one can make various commit groups that aren't dictated by the file strucuture required by a complier. I bet you can make them across smaller projects as well. 
 
 The double edged sword of this is that you can make some really complated commit structures that could be difficult for someone who is unfamiliar with the overall project to follow. 
+
+Reflection: Commit Size. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Well, you choose what files that have changed to throw into the staging area before you commit. 
+
+So, if you've changed several files, you can add those files to different commits. One per logical change. 
