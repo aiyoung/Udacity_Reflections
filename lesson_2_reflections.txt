@@ -1,1 +1,11 @@
-fart butts
+Reflection: Staging Area. 
+
+How is the staging area different from the working directory and the repository? What value do you think the staging area offers?
+
+A: The staging area is where you can group files to be added as a commit to a repository. 
+
+by using staging area's, one can group project that contains many files and whose strucuture may be dictated by a given programming language, complier, into different logical constructs. 
+
+I think that the benifit of a stanging area is that one can make various commit groups that aren't dictated by the file strucuture required by a complier. I bet you can make them across smaller projects as well. 
+
+The double edged sword of this is that you can make some really complated commit structures that could be difficult for someone who is unfamiliar with the overall project to follow. 
