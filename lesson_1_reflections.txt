@@ -1,0 +1,48 @@
+Using diff to compare code in bash is pretty simple. 
+
+I prefer how the Examdiff tool works since you get more context to where the differences are in two versions of a file. 
+
+Although Examdiff doesn't alwways work perfectly. 
+
+I like this sumblime text editor though. This is pretty nice. 
+I wish it had a built in spell check like notepad++. 
+
+I hope that i can learn to use and like Git through this course so that 
+we can implement it at work vs. that sourcesafe sortware that is quite
+antiquated.
+
+Having access to the entire history of a file is useful to see what 
+changes have been made by various users over the course of a project. 
+
+I think it's still a good idea to have a change log at the top of a given file though for large projects to provide additional context to 
+why changes were make to the file. 
+
+On the pro’s and cons of manually choosing when to create a commit vs. having versions autosave as in google docs:
+
+Two pro's of manual commit is 1.) You can add context to why you made the commit and 2.) having control over when a commit is made can prevent clutter. 
+
+Some Con's is that if you get lazy and don't commit deligently or logically, you could end up with two versions that don't give much information on what has changed between the two or why. Or two versions that are so removed from eachother, that reverting or referencing the old version isn't revelent. 
+
+Reflection on Multi-File Commits: I think mult-file git commits sound great! Most of the code i work on is highly interrelated and can span many documents! from vb.net projects, to batch scripts that do sever side stuff, to the many scripts written in awk to control the mentor graphic side of things. The hardest part of integrating git in this manner, will be choosing how to segment the different parts into repositories. 
+
+Reflection: Using Git to View History:
+
+You can use the git log command to see a histroy of each change made to a repository along with a comment about that change. (commit is the proper term for a change?)
+
+The git diff [commit code 1] [commit code 2] can be used to see the differences between the two files is. 
+
+Reflection: Confidence from version control. 
+
+How might using version control make you more confident to make changes that could break something?
+
+A: The ability to revert to an older version of a project combined with the diff command, one is more free to make sweeping changes of a code without the fear of comepletely junking the project. It's basically a nicer way of doing what i already do at work. Making a local copy of a project in a new folder on my desktop and messing around without fear of wrecking the project. 
+
+Reflection: How do you want to use git?
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Well for now, since i'm on my personal computer, i really just want to keep learning Git. Then i will have to do some self directed learning to see what the best way to integrate git into my workflow at work will be. 
+
+It might be good for me to re-install the arduino IDE, firgure out how to link the project with GIT, clean it up, and throw it up on Git-Hub as an exercise. 
+
+I really need to write an instructable on how i made all that stuff a few years ago anyway. I have 3k+ views on my youtube video for that project!
