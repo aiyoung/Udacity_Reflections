@@ -16,4 +16,14 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 Well, you choose what files that have changed to throw into the staging area before you commit. 
 
+Reflection: When to use branches. 
+
+What are some situations where branches would be helpful in keeping your histroy organized? How would branches help?
+
+A: well in the case where one wants to experiment branches could be helpful. 
+
+or if one has a big feature they want to eventually roll into the master branch, but want to keep the master branch clean while they work on that new feature. 
+
+Branches are neat!. 
+
 So, if you've changed several files, you can add those files to different commits. One per logical change. 
