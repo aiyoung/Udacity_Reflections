@@ -27,3 +27,11 @@ or if one has a big feature they want to eventually roll into the master branch,
 Branches are neat!. 
 
 So, if you've changed several files, you can add those files to different commits. One per logical change. 
+
+Reflection: Visualizing with Diagrams.
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams help you visualize what nodes various branches sprung from, points they merged, etc. 
+
+I think it'd be worth looking into that git flow stuff people were talking about online that makes visualizing a given git repository easier than the current ASCII like stuff of git log --graph or whatever the command was. 
