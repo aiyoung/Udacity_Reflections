@@ -35,3 +35,23 @@ How do the diagrams help you visualize the branch structure?
 Diagrams help you visualize what nodes various branches sprung from, points they merged, etc. 
 
 I think it'd be worth looking into that git flow stuff people were talking about online that makes visualizing a given git repository easier than the current ASCII like stuff of git log --graph or whatever the command was. 
+
+Reflection: Merging two branches. 
+
+What was the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A:
+
+Well, merging the two branches should have gone seemlessly, but i ended up with a conflect in game.js. 
+
+To resolve the conflict, i had to run git mergetool which opened apple's dev tool, filemeerge. 
+
+Filemerge is bad ass and i wish i had it for windows! I'll have to look up a windows equivalent. 
+
+anyway, after refviewing the various changes, i saved the file and commited the change. 
+
+What sucks is that some how all previous commits got totally nuked from the master!! :( 
+
+Had this been an important project, i would have fliped out! Hopefully there is a way to fix this. 
+
+On to the second part of the question. The branches are represented in a diagram because they branch out from the master, and can then recombine. It's fairly self explanitory really. 
