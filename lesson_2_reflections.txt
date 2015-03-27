@@ -50,7 +50,7 @@ Filemerge is bad ass and i wish i had it for windows! I'll have to look up a win
 
 anyway, after refviewing the various changes, i saved the file and commited the change. 
 
-What sucks is that some how all previous commits got totally nuked from the master!! :( 
+What stinks is that some how all previous commits got totally nuked from the master!! :( 
 
 Had this been an important project, i would have fliped out! Hopefully there is a way to fix this. 
 
@@ -67,5 +67,3 @@ The merges are trackable to a point. My commits seems to fold in really weird wa
 Cons: I haven't gotten the method shown in the class videos to show up when a conflict occurs, but this method seems tedious. 
 
 I like apple's  merge tool quite a bit, but a HUGE downside to that tool is that i am not able to add code as i perform the merge. So i have to write down changes to make after i do the file merge since i can't mix and match code between two files. But i guess i never could do this in examdiff, so it's not a huge deal. 
-
-I'm not sure how much i want to use git vs. source safe at work at the moment. I will have to wait until vic gets source safe hopefully up and running on monday to see how that works. if i want to keep going down that legacy route, etc. 

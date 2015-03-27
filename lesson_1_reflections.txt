@@ -7,10 +7,6 @@ Although Examdiff doesn't alwways work perfectly.
 I like this sumblime text editor though. This is pretty nice. 
 I wish it had a built in spell check like notepad++. 
 
-I hope that i can learn to use and like Git through this course so that 
-we can implement it at work vs. that sourcesafe sortware that is quite
-antiquated.
-
 Having access to the entire history of a file is useful to see what 
 changes have been made by various users over the course of a project. 
 
@@ -41,7 +37,7 @@ Reflection: How do you want to use git?
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-Well for now, since i'm on my personal computer, i really just want to keep learning Git. Then i will have to do some self directed learning to see what the best way to integrate git into my workflow at work will be. 
+Well for now, since i'm on my personal computer, i really just want to keep learning Git. Then i will have to do some self directed learning to see what the best way to integrate git into my workflow will be. 
 
 It might be good for me to re-install the arduino IDE, firgure out how to link the project with GIT, clean it up, and throw it up on Git-Hub as an exercise. 
 
