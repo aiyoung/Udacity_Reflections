@@ -55,3 +55,17 @@ What sucks is that some how all previous commits got totally nuked from the mast
 Had this been an important project, i would have fliped out! Hopefully there is a way to fix this. 
 
 On to the second part of the question. The branches are represented in a diagram because they branch out from the master, and can then recombine. It's fairly self explanitory really. 
+
+Reflection: Automatic vs. Manual Merging
+
+Q: What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Pros: We can now merge experiments back into production code and vice versa allowing us the freedom to experment. 
+
+The merges are trackable to a point. My commits seems to fold in really weird ways when i use git mergetool, so i am not too happy about that. Git whines that i don't have stuff set up correctly, so it might just be that. 
+
+Cons: I haven't gotten the method shown in the class videos to show up when a conflict occurs, but this method seems tedious. 
+
+I like apple's  merge tool quite a bit, but a HUGE downside to that tool is that i am not able to add code as i perform the merge. So i have to write down changes to make after i do the file merge since i can't mix and match code between two files. But i guess i never could do this in examdiff, so it's not a huge deal. 
+
+I'm not sure how much i want to use git vs. source safe at work at the moment. I will have to wait until vic gets source safe hopefully up and running on monday to see how that works. if i want to keep going down that legacy route, etc. 
