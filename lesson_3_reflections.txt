@@ -5,3 +5,14 @@ Why might you want to always pull changes manually rather than having Git automa
 A: It's a good idea to always pull changes manually from a remote repository because a colaborator might have made changes to the project that you might not what in your local master branch. Or you might want to fold those changes into a different branch on your local machine. 
 
 
+Forks, CLones, and Branches. 
+
+Q: Describe the differences between forks, clones, and branches. When would you use one instead of another. 
+
+A:
+
+A fork is when you "copy" a project from another person on GitHub into your own repository. One would create a fork when they want to utilize another users code, or as a method of QC when working on a large, collaborative project. 
+
+A clone can be done locally or on GitHub in your own repository and copys all of the content of a project into a new area. We haven't gone over clones much in the class yet, so i'm not sure why one would want to use clone over branch. 
+
+Braches are used locally and can be pushed to GitHub. Braches enable a user to work on various aspects of a project while keeping the master "clean" until a feature is ready to roll back into the master branch. 
