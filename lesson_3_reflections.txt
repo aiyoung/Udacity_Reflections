@@ -1,1 +1,7 @@
-Text text text
+Manual vs. Automatic pull
+
+Why might you want to always pull changes manually rather than having Git automatcially stay up-to-date with your remote repository?
+
+A: It's a good idea to always pull changes manually from a remote repository because a colaborator might have made changes to the project that you might not what in your local master branch. Or you might want to fold those changes into a different branch on your local machine. 
+
+
