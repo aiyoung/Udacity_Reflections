@@ -16,3 +16,15 @@ A fork is when you "copy" a project from another person on GitHub into your own 
 A clone can be done locally or on GitHub in your own repository and copys all of the content of a project into a new area. We haven't gone over clones much in the class yet, so i'm not sure why one would want to use clone over branch. 
 
 Braches are used locally and can be pushed to GitHub. Braches enable a user to work on various aspects of a project while keeping the master "clean" until a feature is ready to roll back into the master branch. 
+
+Local Copies of Remote Branches. 
+
+Q: What is the benefit of having a copy of the last known state of the remote stored locally?
+
+A: Having a copy of the last known state of the remote on your local machine is benfitial for many reasons. 
+
+As stated in the video, if you're about to work remotely without an internet connection, grabbing the last known state before you head out allows you to view and merge the remote with your local project offline. 
+
+Another benifit is that you could download the most recent remote and continue to work on your master vesion until your are ready to roll your changes into the remote version. 
+
+In this case, i'm treating the remote as your "production ready" code, and the local master as a branch of that. 
