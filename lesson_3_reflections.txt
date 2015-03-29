@@ -28,3 +28,17 @@ As stated in the video, if you're about to work remotely without an internet con
 Another benifit is that you could download the most recent remote and continue to work on your master vesion until your are ready to roll your changes into the remote version. 
 
 In this case, i'm treating the remote as your "production ready" code, and the local master as a branch of that. 
+
+Collaboration using Git and GitHub. 
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, what would be harder?
+
+A: 
+
+Well you could use a different soruce control software package. 
+
+You could also try managing the code your self by having a server with production code and designating a person to be the controller of that code. 
+
+Then you'd have to make use of tools like exam diff, etc to check for code changes. 
+
+All and all, i perfer git so far for collaboration. But i haven't tried many other software source control solutions. 
