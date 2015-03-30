@@ -42,3 +42,15 @@ You could also try managing the code your self by having a server with productio
 Then you'd have to make use of tools like exam diff, etc to check for code changes. 
 
 All and all, i perfer git so far for collaboration. But i haven't tried many other software source control solutions. 
+
+When to use a separate branch
+
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+A:
+
+quite frankly, i got a little lost in this section of the class. I'm not sure what we couldn't push/pull on a branch. We had to instead pull hcanges into the local master branch, merge the local master into our local brach, then push the branch to remote before merging the brach into master. 
+
+I thought the point to branching, locally or externally, was to have an area to experiment with. It seems that we should be able to push and pull to "cloud" braches as much as we want until we want to either update the branch with code from master, or roll the branch into the master. 
+
+I may have to revisit those videos. 
